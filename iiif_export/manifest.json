@@ -1,0 +1,214 @@
+{
+    "label": "Black Jacob,\" a monument of grace the life of Jacob Hodges, an African Negro, who died in Canandaigua, N.Y., February 1842 /",
+    "related": [
+        "https://readux.ecdsdev.org/volume/emory:b5h9g/page/all"
+    ],
+    "viewingDirection": "left-to-right",
+    "logo": "https://readux.ecdsdev.org/media/logos/lits-logo-web.png",
+    "thumbnail": {
+        "@id": "https://loris.library.emory.edu/fedora:emory:gnfvk/full/600,/0/default.jpg",
+        "service": {
+            "profile": "http://iiif.io/api/image/2/level1.json",
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://loris.library.emory.edu/fedora:emory:gnfvk"
+        }
+    },
+    "viewingHint": "paged",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Current Page Order",
+            "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/sequence/normal",
+            "canvases": [
+                {
+                    "label": "1",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "width": 1349,
+                    "otherContent": [
+                        {
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/list/fedora:emory:gnfvk"
+                        }
+                    ],
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "@id": "https://loris.library.emory.edu/fedora:emory:gnfvk/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:gnfvk",
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/annotation/fedora:emory:gnfvk",
+                            "on": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:gnfvk",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 1349,
+                                "@type": "dctypes:Image",
+                                "@id": "https://loris.library.emory.edu/fedora:emory:gnfvk/full/full/0/default.jpg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://loris.library.emory.edu/fedora:emory:gnfvk"
+                                },
+                                "height": 1875
+                            },
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 1875
+                },
+                {
+                    "label": "2",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "width": 1349,
+                    "otherContent": [
+                        {
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/list/fedora:emory:pchch"
+                        },
+                        {
+                            "label": "Annotations by sarepal-github",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/emory:b5h9g/list/fedora:emory:pchch"
+                        }
+                    ],
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "@id": "https://loris.library.emory.edu/fedora:emory:pchch/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:pchch",
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/annotation/fedora:emory:pchch",
+                            "on": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:pchch",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 1349,
+                                "@type": "dctypes:Image",
+                                "@id": "https://loris.library.emory.edu/fedora:emory:pchch/full/full/0/default.jpg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://loris.library.emory.edu/fedora:emory:pchch"
+                                },
+                                "height": 1875
+                            },
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 1875
+                },
+                {
+                    "label": "3",
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "width": 1349,
+                    "otherContent": [
+                        {
+                            "@type": "sc:AnnotationList",
+                            "label": "OCR Text",
+                            "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/list/fedora:emory:pchdn"
+                        },
+                        {
+                            "label": "Annotations by sarepal-github",
+                            "@type": "sc:AnnotationList",
+                            "@id": "https://readux.ecdsdev.org/annotations/sarepal-github/emory:b5h9g/list/fedora:emory:pchdn"
+                        }
+                    ],
+                    "@type": "sc:Canvas",
+                    "thumbnail": {
+                        "@id": "https://loris.library.emory.edu/fedora:emory:pchdn/full/200,/0/default.jpg",
+                        "width": 200,
+                        "height": 250
+                    },
+                    "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:pchdn",
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://readux.ecdsdev.org/iiif/emory:b5h9g/annotation/fedora:emory:pchdn",
+                            "on": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:pchdn",
+                            "@type": "oa:Annotation",
+                            "resource": {
+                                "format": "image/jpeg",
+                                "width": 1349,
+                                "@type": "dctypes:Image",
+                                "@id": "https://loris.library.emory.edu/fedora:emory:pchdn/full/full/0/default.jpg",
+                                "service": {
+                                    "profile": "https://iiif.io/api/image/2/level2.json",
+                                    "@context": "https://iiif.io/api/image/2/context.json",
+                                    "@id": "https://loris.library.emory.edu/fedora:emory:pchdn"
+                                },
+                                "height": 1875
+                            },
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "height": 1875
+                }
+            ],
+            "startCanvas": "https://readux.ecdsdev.org/iiif/emory:b5h9g/canvas/fedora:emory:gnfvk"
+        }
+    ],
+    "within": [
+        "https://readux.ecdsdev.org/collection/african-american-literature",
+        "https://readux.ecdsdev.org/collection/early-northern-european"
+    ],
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "attribution": "Emory University Libraries",
+    "metadata": [
+        {
+            "label": "Author",
+            "value": "x"
+        },
+        {
+            "label": "Publisher",
+            "value": "x"
+        },
+        {
+            "label": "Place of Publication",
+            "value": "x"
+        },
+        {
+            "label": "Publication Date",
+            "value": "x"
+        },
+        {
+            "label": "Notes",
+            "value": [
+                {}
+            ]
+        },
+        {
+            "label": "Record Created",
+            "value": "2019-04-01T14:41:06.798Z"
+        },
+        {
+            "label": "Edition Type",
+            "value": "Readux IIIF Exported Edition"
+        },
+        {
+            "label": "About Readux",
+            "value": "https://readux.ecdsdev.org/about/"
+        },
+        {
+            "label": "Annotators",
+            "value": "Sara E. Palmer"
+        },
+        {
+            "label": "Export Date",
+            "value": "2020-06-30T14:28:25.679"
+        }
+    ],
+    "description": "Testing a link. www.google.com",
+    "@type": "sc:Manifest",
+    "@id": "https://readux.ecdsdev.org/iiif/v2/emory:b5h9g/manifest",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+}
